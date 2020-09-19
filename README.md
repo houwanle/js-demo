@@ -11,3 +11,4 @@ javascript实现的动画效果
 - [阿波罗的轻语](./src/Apollo'sWhispers.html)
 - [贪吃蛇](./src/GreedySnake.html)
 - [怦然心动](./src/Heartbeat.html)
+- [激流勇进](./src/Torrent.html)
