@@ -9,3 +9,4 @@ javascript实现的动画效果
 - [七龙珠召唤神龙](./src/DragonBall.html)
 - [变幻线](./src/ChangeLine.html)
 - [阿波罗的轻语](./src/Apollo'sWhispers.html)
+- [贪吃蛇](./src/GreedySnake.html)
