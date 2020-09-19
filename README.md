@@ -4,3 +4,4 @@ javascript实现的动画效果
 - [道家真言](./src/TaoistMantra.html)
 - [动态时间罗盘](./src/DynamicTimeCompass.html)
 - [小象走路](./src/ElephantWalking.html)
+- [迷你键盘](./src/MiniKeyboard.html)
