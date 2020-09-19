@@ -10,3 +10,4 @@ javascript实现的动画效果
 - [变幻线](./src/ChangeLine.html)
 - [阿波罗的轻语](./src/Apollo'sWhispers.html)
 - [贪吃蛇](./src/GreedySnake.html)
+- [怦然心动](./src/Heartbeat.html)
