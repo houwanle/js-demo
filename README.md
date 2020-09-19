@@ -12,3 +12,4 @@ javascript实现的动画效果
 - [贪吃蛇](./src/GreedySnake.html)
 - [怦然心动](./src/Heartbeat.html)
 - [激流勇进](./src/Torrent.html)
+- [旋转魔方](./src/SpinningCube.html)
