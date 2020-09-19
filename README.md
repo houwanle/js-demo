@@ -7,3 +7,4 @@ javascript实现的动画效果
 - [迷你键盘](./src/MiniKeyboard.html)
 - [小鲨鱼](./src/LittleShark.html)
 - [七龙珠召唤神龙](./src/DragonBall.html)
+- [变幻线](./src/ChangeLine.html)
